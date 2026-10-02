@@ -50,4 +50,4 @@ while True:
     print(f"Tyzon: {tyzon_reply}")
 
     with open(db, "w", encoding="utf-8") as f:
-        json.dump(memory, f, ensure_ascii=False, indent=4)
+        json.dump(memory, f, ensure_ascii=False, indent=4) #over
