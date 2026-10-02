@@ -25,7 +25,7 @@ header = {
 while True:
 
     data = {
-        "model": "openai/gpt-chat-latest",
+        "model": "openai/gpt-luna-latest",
         "messages": memory
     }
 
